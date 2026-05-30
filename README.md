@@ -83,6 +83,12 @@ ORCID: [0009-0006-7495-5039](https://orcid.org/0009-0006-7495-5039)
 | Newsletter | [substack.com/@bitsabhi](https://substack.com/@bitsabhi) |
 | Research | [zenodo.org](https://zenodo.org/search?q=0009-0006-7495-5039) |
 | ORCID | [0009-0006-7495-5039](https://orcid.org/0009-0006-7495-5039) |
+| Research | [zenodo.org](https://zenodo.org/search?q=0009-0006-7495-5039) |
+| Stackoverflow | [stackoverflow.com](https://stackoverflow.com/users/3483824/bitsabhi) |
+| BTC_SE | [bitcoin.stackexchange.com](https://bitcoin.stackexchange.com/users/73827/bitsabhi) |
+| ETH_SE | [ethereum.stackexchange.com](https://ethereum.stackexchange.com/users/29525/bitsabhi) |
+| PHY_SE | [physics.stackexchange.com](https://physics.stackexchange.com/users/314028/bitsabhi) |
+| MATH_SE | [math.stackexchange.com](https://math.stackexchange.com/users/977368/bitsabhi) |
 
 ---
 

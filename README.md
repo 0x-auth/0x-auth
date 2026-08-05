@@ -76,19 +76,28 @@ ORCID: [0009-0006-7495-5039](https://orcid.org/0009-0006-7495-5039)
 > *Previously: [@bitsabhi](https://github.com/bitsabhi) — same work, new namespace.*  
 > *All active research and development continues here at @0x-auth.*
 
+Previously: @bitsabhi — same work, new namespace.
+All active research and development continues here at @0x-auth.
+
 | Platform | Link |
 |----------|------|
 | Portfolio | [space-abhishek.netlify.app](https://space-abhishek.netlify.app) |
+| LinkedIn | [linkedin.com/in/bitsabhi](https://www.linkedin.com/in/bitsabhi) |
 | Writing | [medium.com/@bitsabhi](https://medium.com/@bitsabhi) |
 | Newsletter | [substack.com/@bitsabhi](https://substack.com/@bitsabhi) |
-| Research | [zenodo.org](https://zenodo.org/search?q=0009-0006-7495-5039) |
+| Research (Zenodo) | [zenodo.org](https://zenodo.org/search?q=creators.orcid:0009-0006-7495-5039) |
 | ORCID | [0009-0006-7495-5039](https://orcid.org/0009-0006-7495-5039) |
-| Research | [zenodo.org](https://zenodo.org/search?q=0009-0006-7495-5039) |
-| Stackoverflow | [stackoverflow.com](https://stackoverflow.com/users/3483824/bitsabhi) |
-| BTC_SE | [bitcoin.stackexchange.com](https://bitcoin.stackexchange.com/users/73827/bitsabhi) |
-| ETH_SE | [ethereum.stackexchange.com](https://ethereum.stackexchange.com/users/29525/bitsabhi) |
-| PHY_SE | [physics.stackexchange.com](https://physics.stackexchange.com/users/314028/bitsabhi) |
-| MATH_SE | [math.stackexchange.com](https://math.stackexchange.com/users/977368/bitsabhi) |
+| Stack Overflow | [stackoverflow.com/users/3483824/bitsabhi](https://stackoverflow.com/users/3483824/bitsabhi) |
+| Bitcoin SE | [bitcoin.stackexchange.com/users/73827/bitsabhi](https://bitcoin.stackexchange.com/users/73827/bitsabhi) |
+| Ethereum SE | [ethereum.stackexchange.com/users/29525/bitsabhi](https://ethereum.stackexchange.com/users/29525/bitsabhi) |
+| Physics SE | [physics.stackexchange.com/users/314028/bitsabhi](https://physics.stackexchange.com/users/314028/bitsabhi) |
+| Math SE | [math.stackexchange.com/users/977368/bitsabhi](https://math.stackexchange.com/users/977368/bitsabhi) |
+| Dev.to | [dev.to/bitsabhi](https://dev.to/bitsabhi) |
+| PyPI | [pypi.org/user/bitsabhi](https://pypi.org/user/bitsabhi/) |
+| Hugging Face | [huggingface.co/bitsabhi](https://huggingface.co/bitsabhi) |
+| Gist | [gist.github.com/0x-auth](https://gist.github.com/0x-auth) |
+
+**Also:** [Quora](https://www.quora.com/profile/Bitsabhi-1) · [Reddit](https://reddit.com/user/bitsabhi) · [X](https://x.com/bitsabhi) · [Instagram](https://www.instagram.com/bits.abhi)
 
 ---
 

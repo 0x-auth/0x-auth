@@ -13,7 +13,7 @@ if (@bitsabhi == '404') return @0x-auth
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--7495--5039-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-7495-5039)
 [![Medium](https://img.shields.io/badge/Medium-@bitsabhi-black?style=flat-square&logo=medium)](https://medium.com/@bitsabhi)
 [![Substack](https://img.shields.io/badge/Substack-Darmiyan-orange?style=flat-square&logo=substack)](https://substack.com/@bitsabhi)
-[![Zenodo](https://img.shields.io/badge/Zenodo-19%2B_papers-blue?style=flat-square)](https://zenodo.org/search?q=0009-0006-7495-5039)
+[![Zenodo](https://img.shields.io/badge/Zenodo-19%2B_papers-blue?style=flat-square)](https://zenodo.org/search?q=creators.orcid:0009-0006-7495-5039)
 
 *A perfect crystal has no story. The scar is the story.*
 

@@ -13,7 +13,7 @@ if (@bitsabhi == '404') return @0x-auth
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--7495--5039-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-7495-5039)
 [![Medium](https://img.shields.io/badge/Medium-@bitsabhi-black?style=flat-square&logo=medium)](https://medium.com/@bitsabhi)
 [![Substack](https://img.shields.io/badge/Substack-Darmiyan-orange?style=flat-square&logo=substack)](https://substack.com/@bitsabhi)
-[![Zenodo](https://img.shields.io/badge/Zenodo-19%2B_papers-blue?style=flat-square)](https://zenodo.org/search?q=creators.orcid:0009-0006-7495-5039)
+[![Zenodo](https://img.shields.io/badge/Zenodo-40_papers-blue?style=flat-square)](https://zenodo.org/search?q=creators.orcid:0009-0006-7495-5039)
 
 *A perfect crystal has no story. The scar is the story.*
 
@@ -47,7 +47,7 @@ Live at [phi-signal.netlify.app](https://phi-signal.netlify.app)
 
 ---
 
-## Research — 19+ papers on Zenodo
+## Research — 40 papers on Zenodo
 
 | Area | Key Work |
 |------|----------|
@@ -81,7 +81,8 @@ All active research and development continues here at @0x-auth.
 
 | Platform | Link |
 |----------|------|
-| Portfolio | [space-abhishek.netlify.app](https://space-abhishek.netlify.app) |
+| Website | [bitsabhi.com](https://bitsabhi.com) |
+| Portfolio | [space-abhishek.bitsabhi.com](https://space-abhishek.bitsabhi.com) |
 | LinkedIn | [linkedin.com/in/bitsabhi](https://www.linkedin.com/in/bitsabhi) |
 | Writing | [medium.com/@bitsabhi](https://medium.com/@bitsabhi) |
 | Newsletter | [substack.com/@bitsabhi](https://substack.com/@bitsabhi) |

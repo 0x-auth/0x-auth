@@ -37,9 +37,9 @@ Live API at [lambda-g-optimizer.netlify.app](https://lambda-g-optimizer.netlify.
 Distributed AI system with Proof-of-Boundary consensus and inter-AI symbol protocol.
 `pip install bazinga-indeed` · [PyPI](https://pypi.org/project/bazinga-indeed/)
 
-### 🌌 Chronos Anamnesis
-Multi-timeline memory system with Cloudflare D1 persistence.
-Live at [cronos-anamnesis.netlify.app](https://cronos-anamnesis.netlify.app)
+### 🌌 A 3rd type of Intelligence: Emergent Intelligence 
+Learning is demonstrated when later prediction improves and related unseen material is handled better than before exposure.
+https://github.com/0x-auth/world-of_EI
 
 ### φ phi-signal
 Temporal opportunity resonance engine.

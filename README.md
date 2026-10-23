@@ -25,7 +25,11 @@ if (@bitsabhi == '404') return @0x-auth
 
 **The Bitsabhi Method** — the same boundary mathematics that optimizes a Kubernetes scheduler describes the geometry of consciousness. One organizing principle across domains.
 
-### 🦀 Lambda-Shield
+###  New Plugin: kubectl lambda-g
+Scans your Kubernetes cluster for stranded resources across 6 dimensions: CPU, RAM, GPU Core, GPU Memory, IOPS, Network.
+https://github.com/0x-auth/lambda-g-scheduler
+
+###  Lambda-Shield
 Collatz-based stream cipher in Rust. **162/162 NIST statistical tests passed.**
 `crates.io` · [Zenodo DOI: 10.5281/zenodo.18969011](https://doi.org/10.5281/zenodo.18969011)
 

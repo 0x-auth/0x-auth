@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/badge/bitsabhi.com-hub-black?style=flat-square)](https://bitsabhi.com)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0006--7495--5039-green?style=flat-square&logo=orcid)](https://orcid.org/0009-0006-7495-5039)
-[![Zenodo](https://img.shields.io/badge/Zenodo-research-blue?style=flat-square)](https://zenodo.org/search?q=creators.orcid:0009-0006-7495-5039)
+[![Zenodo](https://img.shields.io/badge/Zenodo-research-blue?style=flat-square)](https://zenodo.org/communities/bitsabhi/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-bitsabhi-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/bitsabhi)
 
 *A perfect crystal has no story. The scar is the story.*
@@ -25,7 +25,7 @@
 
 ## Research
 
-Preprints on Zenodo, each with code and data. Start with these:
+Preprints on Zenodo, each with code and data ([selected papers](https://zenodo.org/communities/bitsabhi/) · [all records](https://zenodo.org/search?q=creators.orcid:0009-0006-7495-5039)). Start with these:
 
 | Paper | Area | DOI |
 |---|---|---|
